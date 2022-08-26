@@ -390,21 +390,21 @@ def follow(ses,coki):
 logo = ("""\033[1;32m
 
        .d8888. db   db  .d88b.  db   d8b   db d8888b.  .d88b.  d8888b. 
- 88'  YP 88   88 .8P  Y8. 88   I8I   88 88  `8D .8P  Y8. 88  `8D 
- `8bo.   88ooo88 88    88 88   I8I   88 88oobY' 88    88 88oooY' 
-   `Y8b. 88~~~88 88    88 Y8   I8I   88 88`8b   88    88 88~~~b. 
- db   8D 88   88 `8b  d8' `8b d8'8b d8' 88 `88. `8b  d8' 88   8D 
- `8888Y' YP   YP  `Y88P'   `8b8' `8d8'  88   YD  `Y88P'  Y8888P'
+      88'  YP 88   88 .8P  Y8. 88   I8I   88 88  `8D .8P  Y8. 88  `8D 
+      `8bo.   88ooo88 88    88 88   I8I   88 88oobY' 88    88 88oooY' 
+        `Y8b. 88~~~88 88    88 Y8   I8I   88 88`8b   88    88 88~~~b. 
+      db   8D 88   88 `8b  d8' `8b d8'8b d8' 88 `88. `8b  d8' 88   8D 
+      `8888Y' YP   YP  `Y88P'   `8b8' `8d8'  88   YD  `Y88P'  Y8888P'
                           
                           
                               \033
 __________________×______________________
   
-  Owner   :  Mr.Showrob
+  Owner   :  SHOWROB CHOWDHURY 
  
-  Github   :  Showrob Vaw
+  Github   :  SHOWROB-CYBER
 
-  Facebook : https://www.facebook.com/PICCHI.BABU.41
+  Facebook : https://www.facebook.com/its.me.showrob.okh
   
 __________________×______________________\033[1;37m""")
 
